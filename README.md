@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I am currently studying for a master's degree in computer science at Xi'an 工程 University!
+- 🔭 I am currently studying for a master's degree in computer science at 西安工程 University!
 - 🌱 I am currently studying the research of front-end development and intelligent navigation
 
 <div align="center">
