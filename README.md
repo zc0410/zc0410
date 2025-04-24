@@ -1,6 +1,6 @@
 ### Hi there 👋🤣🤣✌️😜😢😎🎶👍🙌👍💕👌🤦‍♀️🤷‍♂️✌️👍
 
-**啥都不会只能学习！/ZC0410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
