@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I am currently studying for a master's degree in computer science at 西安工程 University!
-- 🌱 I am currently studying the research of front-end development and intelligent navigation
+- 🌱 目前正在学习前端开发，研究智能导航！
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=✨欢迎来到我的空间✨;祝您今天愉快!&center=true&size=27">
